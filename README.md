@@ -51,18 +51,15 @@
 |-------------------|--------------------|--------------------|-------------------|---------------------------|
 |Ordered/Indexed    |  Ordered/Indexed   | Ordered/Indexed    | Unordered         | Unordered                 |
 |-------------------|--------------------|--------------------|-------------------|---------------------------|
-|Allows Duplicate   |  Allows Duplicate  | Allows Duplicate   | Doesn't allow     | Doesn't allow             |
-|Members            |  Members           | Members            | Duplicate Members | Duplicate Members         |
+|Allows Duplicate Members  |  Allows Duplicate Members  | Allows Duplicate Members   | Doesn't allow Duplicate Members    | Doesn't allow Duplicate Members            |
+|            |             |             |  |          |
 |-------------------|--------------------|--------------------|-------------------|---------------------------|
-|Empty String String with single element="H"       |  Empty list=[]     | Emply tuple=()     | Empty Set=set()   | Empty dictionary={}       |
-| |  List with single  | Tuple with single  | Set with single   | Dictionary with single    |
-|        |  item=["Hello"]    | item=("Hello")     | item={"Hello"}    | item={"Hello":1}          |
+|Empty String String with single element="H"       |  Empty list=[] List with single item=["Hello"]    | Emply tuple=() Tuple with single item=("Hello")   | Empty Set=set() Set with single item={"Hello"}  | Empty dictionary={} Dictionary with single item={"Hello":1}      |
+| |    |   |    |     |
+|        |      |      |     |          |
 |-------------------|--------------------|--------------------|-------------------|---------------------------|
-|It can store data  |  It can store any  | It can store any   | It can store data | Inside of dictionary key  |
-|type string only   |  data type str,    | data type str,     | types (int, str,  | can be int, str and tuple |
-|                   |  list, set, tuple  | list, set, tuple,  | tuple) but not    | only values can be of any |    
-|                   |  int and dictionary| int and dictionary | (list, set,       | data type int, str, list, |
-|                   |                    |                    | dictionary)       | tuple, set and dictionary |
+|It can store data type string only  |  It can store any data type str, list, set, tuple, int and dictionary | It can store any data types (int, str, tuple) but not (list, set,  dictionary)  and dictionary   | It can store data | Inside of dictionary key type str, list, set, tuple, int  |
+|   |      |      |   | can be int, str and tuple only values can be of any data type int, str, list, tuple, set and dictionary|
 
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
