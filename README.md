@@ -54,9 +54,9 @@
 |Allows Duplicate   |  Allows Duplicate  | Allows Duplicate   | Doesn't allow     | Doesn't allow             |
 |Members            |  Members           | Members            | Duplicate Members | Duplicate Members         |
 |-------------------|--------------------|--------------------|-------------------|---------------------------|
-|Empty String       |  Empty list=[]     | Emply tuple=()     | Empty Set=set()   | Empty dictionary={}       |
-|String with single |  List with single  | Tuple with single  | Set with single   | Dictionary with single    |
-|element="H"        |  item=["Hello"]    | item=("Hello")     | item={"Hello"}    | item={"Hello":1}          |
+|Empty String String with single element="H"       |  Empty list=[]     | Emply tuple=()     | Empty Set=set()   | Empty dictionary={}       |
+| |  List with single  | Tuple with single  | Set with single   | Dictionary with single    |
+|        |  item=["Hello"]    | item=("Hello")     | item={"Hello"}    | item={"Hello":1}          |
 |-------------------|--------------------|--------------------|-------------------|---------------------------|
 |It can store data  |  It can store any  | It can store any   | It can store data | Inside of dictionary key  |
 |type string only   |  data type str,    | data type str,     | types (int, str,  | can be int, str and tuple |
