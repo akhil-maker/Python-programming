@@ -35,14 +35,14 @@
 * -> Database development
 
 ## Various Datatypes in Python
-* Mutable data types in Python - their values can be modified after creation, slow in speed, readable, writable
--> List
--> Sets
--> Dictionary
-* Immutable Data types in Python - their values cannot be modified after creation, fast in speed, only readable
--> Numbers - storing numeric values but same kind of data
--> Strings - store characters but same kind of data
--> Tuples
+* Mutable data types in Python - their values can be modified after creation, slow in speed, readable, writable<br>
+-> List<br>
+-> Sets<br>
+-> Dictionary<br>
+* Immutable Data types in Python - their values cannot be modified after creation, fast in speed, only readable<br>
+-> Numbers - storing numeric values but same kind of data<br>
+-> Strings - store characters but same kind of data<br>
+-> Tuples<br>
 
 
 |String             |  List              | Tuple              | Set               | Dictionary                |
@@ -52,9 +52,4 @@
 |Allows Duplicate Members  |  Allows Duplicate Members  | Allows Duplicate Members   | Doesn't allow Duplicate Members    | Doesn't allow Duplicate Members            |
 |Empty String<br>String with single element="H"       |  Empty list=[]<br>List with single item=["Hello"]    | Emply tuple=()<br>Tuple with single item=("Hello")   | Empty Set=set()<br>Set with single item={"Hello"}  | Empty dictionary={}<br>Dictionary with single item={"Hello":1} |
 |It can store data type string only  |  It can store any data type str, list, set, tuple, int and dictionary | It can store any data type str, list, set, tuple, int and dictionary | It can store data types (int, str, tuple) but not (list, set,  dictionary) | Inside of dictionary key can be int, str and tuple only values can be of any data type int, str, list, tuple, set and dictionary |
-
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1    | Value 1  | Value 2  |
-| Row 2    | Value 3  | Value 4  |
 
