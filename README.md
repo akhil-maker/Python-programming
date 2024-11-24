@@ -46,18 +46,11 @@
 
 
 |String             |  List              | Tuple              | Set               | Dictionary                |
-|===================|====================|====================|===================|===========================|
+|-------------------|--------------------|--------------------|-------------------|---------------------------|
 |Immutable          |  Mutable           | Immutable          | Mutable           | Mutable                   |
-|-------------------|--------------------|--------------------|-------------------|---------------------------|
 |Ordered/Indexed    |  Ordered/Indexed   | Ordered/Indexed    | Unordered         | Unordered                 |
-|-------------------|--------------------|--------------------|-------------------|---------------------------|
 |Allows Duplicate Members  |  Allows Duplicate Members  | Allows Duplicate Members   | Doesn't allow Duplicate Members    | Doesn't allow Duplicate Members            |
-|            |             |             |  |          |
-|-------------------|--------------------|--------------------|-------------------|---------------------------|
-|Empty String String with single element="H"       |  Empty list=[] List with single item=["Hello"]    | Emply tuple=() Tuple with single item=("Hello")   | Empty Set=set() Set with single item={"Hello"}  | Empty dictionary={} Dictionary with single item={"Hello":1}      |
-| |    |   |    |     |
-|        |      |      |     |          |
-|-------------------|--------------------|--------------------|-------------------|---------------------------|
+|Empty String<br>String with single element="H"       |  Empty list=[]<br>List with single item=["Hello"]    | Emply tuple=()<br>Tuple with single item=("Hello")   | Empty Set=set()<br>Set with single item={"Hello"}  | Empty dictionary={}<br>Dictionary with single item={"Hello":1} |
 |It can store data type string only  |  It can store any data type str, list, set, tuple, int and dictionary | It can store any data type str, list, set, tuple, int and dictionary | It can store data types (int, str, tuple) but not (list, set,  dictionary) | Inside of dictionary key can be int, str and tuple only values can be of any data type int, str, list, tuple, set and dictionary |
 
 | Header 1 | Header 2 | Header 3 |
