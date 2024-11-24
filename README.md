@@ -64,3 +64,8 @@ type string only      data type str,      data type str,      types (int, str,  
                       int and dictionary  int and dictionary  (list, set,         data type int, str, list,
                                                                dictionary)        tuple, set and dictionary
 
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Value 1  | Value 2  |
+| Row 2    | Value 3  | Value 4  |
+
