@@ -9,5 +9,21 @@ print(n1+n2)
 
 nu1 = 20
 nu2 = 20.5
-print(nu1+nu2)
+print(nu1+nu2) #convert int to float
 print(nu1*nu2)
+
+a = 11
+f = float(a)
+print(f)
+b = hex(a)
+print(b)
+c = oct(a)
+print(c)
+d = bin(a)
+print(d)
+char = 'A'
+e = ord(char)
+print(e)
+e = 65
+char = chr(e)
+print(char)
