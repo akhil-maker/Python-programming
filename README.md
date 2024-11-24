@@ -27,9 +27,9 @@
 * -> Robust
 
 ## Where python is used?
-* -> Web frameworks and applications
-* -> GUI-based desktop applications-> Graphic design, image processing applications, Games adn scientifi/Computational applications
-* -> ML, AI, Neural networks
+* -> Web frameworks and applications\n
+* -> GUI-based desktop applications-> Graphic design, image processing applications, Games adn scientifi/Computational applications\n
+* -> ML, AI, Neural networks\n
 * -> Data science, data virtualization
 * -> IOT 
 * -> Database development
