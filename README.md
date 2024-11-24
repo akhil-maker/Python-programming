@@ -35,14 +35,14 @@
 * -> Database development
 
 ## Various Datatypes in Python
-* Mutable data types in Python - their values can be modified after creation, slow in speed, readable, writable\n
--> List\n
--> Sets\n
--> Dictionary\n
-* Immutable Data types in Python - their values cannot be modified after creation, fast in speed, only readable\n
--> Numbers - storing numeric values but same kind of data\n
--> Strings - store characters but same kind of data\n
--> Tuples\n
+* Mutable data types in Python - their values can be modified after creation, slow in speed, readable, writable
+-> List
+-> Sets
+-> Dictionary
+* Immutable Data types in Python - their values cannot be modified after creation, fast in speed, only readable
+-> Numbers - storing numeric values but same kind of data
+-> Strings - store characters but same kind of data
+-> Tuples
 
 
 String                List                Tuple               Set                 Dictionary
