@@ -1,0 +1,22 @@
+Introduction to Python
+-> Python is a popular programming language. It was created by Guido van Rossum, and released in 1991 at CWI (Cemtrum Wiskunde & Informatica) Netherland.
+-> Python is General purpose, high level programming language.
+-> Python is dynamic
+
+Why Python?
+-> Simple & Easy to learn
+-> Platform independent
+-> Free & Open source
+-> Interpreted (bytecode-compiled)
+-> Rich Library Support
+-> Embeddable & Extensible
+-> Portable
+-> Robust
+
+Where python is used?
+-> Web frameworks and applications
+-> GUI-based desktop applications-> Graphic design, image processing applications, Games adn scientifi/Computational applications
+-> ML, AI, Neural networks
+-> Data science, data virtualization
+-> IOT 
+-> Database development
