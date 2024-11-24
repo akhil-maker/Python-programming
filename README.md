@@ -58,8 +58,7 @@
 | |    |   |    |     |
 |        |      |      |     |          |
 |-------------------|--------------------|--------------------|-------------------|---------------------------|
-|It can store data type string only  |  It can store any data type str, list, set, tuple, int and dictionary | It can store any data types (int, str, tuple) but not (list, set,  dictionary)  and dictionary   | It can store data | Inside of dictionary key type str, list, set, tuple, int  |
-|   |      |      |   | can be int, str and tuple only values can be of any data type int, str, list, tuple, set and dictionary|
+|It can store data type string only  |  It can store any data type str, list, set, tuple, int and dictionary | It can store any data type str, list, set, tuple, int and dictionary | It can store data types (int, str, tuple) but not (list, set,  dictionary) | Inside of dictionary key can be int, str and tuple only values can be of any data type int, str, list, tuple, set and dictionary |
 
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
